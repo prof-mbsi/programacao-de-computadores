@@ -1,0 +1,6 @@
+*.cache
+*.dll
+*.exe
+*.log
+**/bin
+**/output
