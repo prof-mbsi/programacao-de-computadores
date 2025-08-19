@@ -5,7 +5,7 @@
 ## Cronograma de aulas:
 1. 30/jul: ~~Apresentação da disciplina. Revisão de laços de repetição em C. Exercícios + testes de mesa.~~
 2. 06/ago: ~~Revisão de vetores. Exercícios + testes de mesa.~~
-3. 13/ago: Revisão de matrizes. Exercícios + testes de mesa.
+3. 13/ago: ~~Revisão de matrizes. Exercícios + testes de mesa.~~
 4. 20/ago: Revisão de structs. Exercícios + testes de mesa.
 5. 27/ago: Recursividade. Passagem por valor. Conceito, aplicações e exemplos.
 6. 03/set: Ponteiros. Conceito, aplicações e exemplos. Aritimética e operações relacionais com ponteiros.
