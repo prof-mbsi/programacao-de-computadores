@@ -9,7 +9,7 @@
 4. 20/ago: ~~Revisão de structs. Exercícios + testes de mesa.~~
 5. 27/ago: ~~Funções em C. Tipos de retorno e parâmetros.~~
 6. 03/set: ~~**A2-1: Lista de exercícios individual (1,0).**~~
-7. 10/set: Recursividade. Passagem por valor. Conceito, aplicações e exemplos.
+7. 10/set: ~~Recursividade. Passagem por valor. Conceito, aplicações e exemplos.~~
 8. 17/set: Ponteiros. Conceito, aplicações e exemplos. Aritimética e operações relacionais com ponteiros.
 9. 24/set: Semana acadêmica.
 10. 01/out: Ponteiros. Conceito, aplicações e exemplos. Aritimética e operações relacionais com ponteiros.
